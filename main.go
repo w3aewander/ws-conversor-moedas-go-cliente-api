@@ -3,7 +3,7 @@
 *  Consumir API para calculo do valor do cambio entre moedas
 *  @author Wanderlei Silva do Carmo <wander.silva@gmail.com>
 *
-**************************************************************
+**************************************************************/
 package main
 
 	import (
